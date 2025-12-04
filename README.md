@@ -23,5 +23,6 @@ Built using **Power BI**, the dashboard connects multiple datasets to deliver an
 ---
 
 ## 📷 Dashboard Preview  
-<img src="[https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Abhishek-Bhise1606&show_icons=true&theme=radical&cache_seconds=7200](https://github.com/Abhishek-Bhise1606/DATA-ANALYSIS-PROJECT-/blob/main/Helthacare%20Dataset.png)" width="48%">
-  
+## 📷 Dashboard Preview  
+<img src="https://raw.githubusercontent.com/Abhishek-Bhise1606/DATA-ANALYSIS-PROJECT-/main/Helthacare%20Dataset.png" width="80%">
+
