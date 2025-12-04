@@ -23,4 +23,4 @@ Built using **Power BI**, the dashboard connects multiple datasets to deliver an
 ---
 
 ## 📷 Dashboard Preview  
-- <a href= 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
